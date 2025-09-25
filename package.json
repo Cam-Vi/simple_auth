@@ -14,5 +14,14 @@
     "express": "^5.1.0",
     "mongoose": "^8.18.2",
     "uuid": "^13.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cam-Vi/simple_auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cam-Vi/simple_auth/issues"
+  },
+  "homepage": "https://github.com/Cam-Vi/simple_auth#readme"
 }
